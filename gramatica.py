@@ -104,7 +104,7 @@ class Nodo:
 
 # ------------------ TABLA DE SÍMBOLOS ------------------
 tabla_simbolos = {}
-traza_semantica = []  # Aquí guardamos las reglas semánticas ejecutadas
+traza_semantica = []  # guardar las reglas semánticas ejecutadas
 
 def leer_variables():
     print("Ingrese variables (ej: a=4, b=3). Enter vacío para continuar:")
