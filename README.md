@@ -263,4 +263,4 @@ def analizar_expresion(expresion):
 
 #### Arbol Generado: 
 
-![AST](AST_decorado.png)
+![AST](AST_Decorado.png)
